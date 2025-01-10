@@ -2,13 +2,13 @@
 A working omnidirectional drivetrain for Vex V5 using only 3 wheels
 
 
-Hi! Welcome to my repository on a cool drivetrain idea I came up with in the 2023-2024 Vex V5 competition, *Over Under*. First off, unless specified otherwise, all mentioned wheels are Omni wheels, and I refer to my drive base as the tricycle, even though it does not resemble a tricycle. Anyways, the drive base is made of a triangle. The thought behind this was that I could save the weight of a square base, and achieve omnidirectional movement with 2 fewer wheels than an H-drive (where you have a standard 4 wheel tank base and add a fifth wheel in the middle). I was trying to lift the bot off the ground on the pole (never quite finished/tested that system, unfortunately) and I thought it would help to have a light bot because the motors suck. The code I attached includes code to run other systems on my bot (I had a catapult, front-end ram, and lifter also on the bot), so keep that in mind if you use my code. Also... It's in block code because for some reason I thought it would be easier and quicker than if I used Python (it wasn't). So sorry for that.
+Hi! Welcome to my repository on a cool drivetrain idea I came up with in the 2023-2024 Vex V5 competition, *Over Under*. First off, unless specified otherwise, all mentioned wheels are Omni wheels, and I refer to my drive base as the tricycle, even though it does not resemble a tricycle. Anyways, the drive base is made of a triangle. The thought behind this was that I could save the weight of a square base, and achieve omnidirectional movement with 2 fewer wheels than an H-drive (where you have a standard 4 wheel tank drive-base and add a fifth wheel in the middle orthogonal to the other wheels). I was trying to lift the bot off the ground on the pole (never quite finished/tested that system unfortunately) and I thought it would help to have a light bot because the motors suck. The code I attached includes code to run other systems on my bot (I had a catapult, front-end ram, and lifter also on the bot), so keep that in mind if you use my code. Also... It's in block code because for some reason I thought it would be easier and quicker than if I used Python (it wasn't). So sorry for that. Also, check out the folder in the repository for photos and videos of the drive-base concept in action!
 
 *Picture of drive base:*
 
 ![IMG_4922](https://github.com/user-attachments/assets/c103e936-78fc-4d4a-849b-63a5e110b70c)
 
-This is an image with the ram attached to the drive base
+This is an image with the front ram attached to the drive base
 
 
 **Code + Set up:**
